@@ -1,0 +1,3 @@
+For errors within Deep Learning with Python by Francois Chollet
+
+https://forums.manning.com/posts/list/42186.page
